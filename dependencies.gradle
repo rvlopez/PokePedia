@@ -1,0 +1,8 @@
+ext {
+
+    moshiVersion = '1.7.0'
+
+    daggerVersion = '2.23.2'
+    javaxInjectVersion = '1'
+
+}
